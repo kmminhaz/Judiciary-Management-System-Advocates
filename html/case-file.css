@@ -1,0 +1,6 @@
+.btnsDocument{
+    display: none;
+}
+.openBtn:hover .btnsDocument{
+    display: block;
+}
